@@ -1,1 +1,1 @@
-declare module 'tplink-cloud-api'
+declare module "tplink-cloud-api";
